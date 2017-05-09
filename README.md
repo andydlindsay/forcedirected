@@ -5,5 +5,5 @@
 - I can see a Force-directed Graph that shows which countries share borders.
 - I can see each country's flag on its node.
 
-### FreeCodeCamp [assignment](https://www.freecodecamp.com/challenges/show-national-contiguity-with-a-force-directed-graph) and [demo](https://codepen.io/FreeCodeCamp/full/xVopBo)
-### Running on [Heroku](http://andydlindsay-forcedirected.herokuapp.com)
+### This project is running on [Heroku](http://andydlindsay-forcedirected.herokuapp.com)
+#### FreeCodeCamp [assignment](https://www.freecodecamp.com/challenges/show-national-contiguity-with-a-force-directed-graph) and [example](https://codepen.io/FreeCodeCamp/full/xVopBo)

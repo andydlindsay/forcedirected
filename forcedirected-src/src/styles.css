@@ -13,7 +13,7 @@ body {
 }
 
 md-card {
-  width: 70%;
+  width: 60%;
   margin: auto;
   opacity: 0.9;
 }
@@ -32,7 +32,8 @@ md-card-content {
 
 .svg {
   margin: auto;
-  padding-left: 30px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
 .legend rect {
@@ -81,4 +82,15 @@ div.tooltip {
 .tick {
   font-size: 1.3em;
   font-weight: bold;
+}
+
+.links line {
+  stroke: lightsteelblue;
+  stroke-opacity: 0.6;
+}
+
+.node {
+    fill: #ccc;
+    stroke: #fff;
+    stroke-width: 2px;
 }
